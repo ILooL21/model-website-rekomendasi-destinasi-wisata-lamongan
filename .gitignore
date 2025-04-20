@@ -1,5 +1,8 @@
 .venv
 .idea
 data/processed/*
+!data/processed/.gitkeep
+
 model/*
+!model/.gitkeep
 data/dataset.csv
